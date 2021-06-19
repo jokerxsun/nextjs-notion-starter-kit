@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'jokerSun',
-  domain: 'transitivebullsh.it',
+  domain: 'https://www.notion.so/Blog-604b12e5c23e4efe9a744b8b7518fbc0',
   author: 'jokerSun',
 
   // open graph metadata (optional)
